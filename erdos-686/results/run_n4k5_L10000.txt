@@ -1,0 +1,4 @@
+alpha = 4^(1/5): 19607 certified partial quotients (P = 20050 digits)
+38993 candidate fractions with q < 10^10000
+exact checks: 33445; solutions with 3 <= Y < 10^10000: []
+time 11.3s

@@ -1,6 +1,8 @@
-# Erdős Problem #677: the cases k = 3 and k = 4
+# Erdős Problems #677 (k = 3, 4) and #686 (bounded search)
 
 > **AI disclosure.** The mathematics, code and Lean formalization in this repository were produced by Claude, an AI assistant made by Anthropic. The repository owner is not a mathematician; they started the project and are publishing the result. Separate, independent AI reviews checked the k = 3 and k = 4 arguments. Please read everything here with the usual caution for AI-generated mathematics.
+
+> **See also:** [`erdos-686/`](erdos-686): a rigorous bounded search for the related Problem #686 (N ∈ {4, 25, 49, 64, 81}, odd k = 5 to 13, Y < 10^10000).
 
 ## The problem
 

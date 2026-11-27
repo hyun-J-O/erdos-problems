@@ -1,0 +1,6 @@
+{'N': 6, 'k': 3, 'c': '9/20', 'Y0': 3, 'L': 50, 'cf_terms': 144, 'cands': 97, 'checked': 99, 'solutions_mn': [(mpz(7), mpz(3))], 'secs': 0.0}
+{'N': 9, 'k': 3, 'c': '14/25', 'Y0': 3, 'L': 50, 'cf_terms': 152, 'cands': 205, 'checked': 167, 'solutions_mn': [(mpz(25), mpz(11))], 'secs': 0.0}
+{'N': 16, 'k': 3, 'c': '3/4', 'Y0': 3, 'L': 50, 'cf_terms': 137, 'cands': 189, 'checked': 179, 'solutions_mn': [(mpz(13), mpz(4))], 'secs': 0.0}
+{'N': 4, 'k': 3, 'c': '17/50', 'Y0': 3, 'L': 50, 'cf_terms': 141, 'cands': 99, 'checked': 77, 'solutions_mn': [], 'secs': 0.0}
+{'N': 2, 'k': 3, 'c': '17/100', 'Y0': 3, 'L': 50, 'cf_terms': 132, 'cands': 91, 'checked': 68, 'solutions_mn': [], 'secs': 0.0}
+{'N': 4, 'k': 5, 'c': '59/100', 'Y0': 6, 'L': 50, 'cf_terms': 152, 'cands': 198, 'checked': 156, 'solutions_mn': [], 'secs': 0.0}
