@@ -1,0 +1,2 @@
+Range k=3..40, 0<=n<m<=1000000: 0 counterexamples (215.4s)
+(python3 search.py --kmax 40 --nmax 1000000, run 2026-11-27)
